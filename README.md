@@ -10,3 +10,6 @@ use this button to create new TODOs. It also has delete functionality
 in the form of a button within each TODO that removes that TODO when 
 clicked.
 
+---
+Made with :heart: by Ashwin Mittal
+
